@@ -42,7 +42,8 @@ My next stand up will go here...
 
 ### Milestone 3
 
-Stay tuned, this stand up is coming soon...
+Stay tuned, this stand up is coming soon. Remember to include links to the API and Libraries used.  Also discuss your persistent data
+Check documentation on FSO for everything that is required!
 
 ### Milestone 4
 
