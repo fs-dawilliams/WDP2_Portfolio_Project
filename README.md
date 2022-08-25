@@ -43,20 +43,19 @@ What are the 4 pages/ views that you have built and how will they be used on you
 ### Milestone 3
 
 Please discuss the following:
-<br>
 API
 - Link to the API that is used in your code
 - Reason you chose the API
-<br>
+
 1st Library
 -Link to the library
 -Link to library tutorial that you made already.
 -Reason you chose this library.
-<br>
+
 2nd Library
 -Link to the library
 -Reason you chose this library.
-<br>
+
 Persistent Data
 -Discuss if you have used MongoDB or Local Storage and how it was used in your code.
 
