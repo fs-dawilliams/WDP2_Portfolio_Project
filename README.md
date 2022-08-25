@@ -38,16 +38,39 @@ For this milestone you will have created a wireframe prototype in Figma.  Post y
 
 ### Milestone 2
 
-My next stand up will go here...
+What are the 4 pages/ views that you have built and how will they be used on your site?
 
 ### Milestone 3
 
-Stay tuned, this stand up is coming soon. Remember to include links to the API and Libraries used.  Also discuss your persistent data
-Check documentation on FSO for everything that is required!
+Please discuss the following:
+API
+- Link to the API that is used in your code
+- Reason you chose the API
+
+1st Library
+-Link to the library
+-Link to library tutorial that you made already.
+-Reason you chose this library.
+
+
+2nd Library
+-Link to the library
+-Reason you chose this library.
+
+Persistent Data
+-Discuss if you have used MongoDB or Local Storage and how it was used in your code.
+
 
 ### Milestone 4
 
-My final stand up...
+Changes
+- Discuss any changes or updates that you have made to your site since Milestone #3.
+
+Styling
+-Discuss the process you used to style your page.
+
+Link To Overview Video
+-Once it is created, put the link to your overview video of your site here.
 
 <br>
 <br>
