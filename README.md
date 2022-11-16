@@ -20,7 +20,9 @@
 
 ## 📢 &nbsp; Milestone Check-Ins
 
-Each week I will summarize my milestone activity and progress by writing a stand-up. A stand-up is meant to be a succinct update on how things are going. Use the prompts below as a guide on what to write about.  For each Milestone #2-4, you should use all 4 icons.
+Each week I will summarize my milestone activity and progress by writing a stand-up. A stand-up is meant to be a succinct update on how things are going.  
+Use the prompts below as a guide on what to write about.    
+For each Milestone #2-4, you should use all 4 icons.   
 
 ⚙️ Overview - What I worked on this past week
 <br>
@@ -34,30 +36,38 @@ Each week I will summarize my milestone activity and progress by writing a stand
 
 ### Milestone 1
 
-For this milestone you will have created a wireframe prototype in Figma.  Post your link here, so you have easy access to it.
+For this milestone you will have created a wireframe prototype in Figma.   
+Post your link here, so you have easy access to it.
 
 ### Milestone 2
 
-List the 4 pages/ views that you have built and how will they be used on your site?  Also, remember that creating a project board, issues, and milestones is 50% of your grade!  If you are having trouble, contact your instructor ASAP, you might need to be part of the ePortoflio group to have better access.
+List the 4 pages/ views that you have built and how will they be used on your site?    
+Also, remember that creating a project board, issues, and milestones is 50% of your grade!   
+If you are having trouble, contact your instructor ASAP, you might need to be part of the ePortoflio group to have better access.
 
 ### Milestone 3
 
 Please discuss the following:
-API
-- Link to the API that is used in your code
-- Reason you chose the API
+API    
+- Link to the API that is used in your code    
+- Reason you chose the API    
+- Where in your code did you use it?    
 
 1st Library
--Link to the library
--Link to library tutorial that you made already.
--Reason you chose this library.
+-Link to the library    
+-Link to library tutorial that you made already.    
+-Reason you chose this library.    
+-Where in your code is it used?    
 
-2nd Library
--Link to the library
--Reason you chose this library.
+2nd Library    
+-Link to the library    
+-Reason you chose this library.    
+-Where in your code is it used?    
 
-Persistent Data
--Discuss if you have used MongoDB or Local Storage and how it was used in your code.
+Persistent Data    
+-Discuss if you have used MongoDB or Local Storage.    
+-How was it used in your code?    
+-Where in your code is it used?    
 
 
 ### Milestone 4
