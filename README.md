@@ -20,7 +20,7 @@
 
 ## 📢 &nbsp; Milestone Check-Ins
 
-Each week I will summarize my milestone activity and progress by writing a stand-up. A stand-up is meant to be a succinct update on how things are going. Use these prompts as a guide on what to write about:
+Each week I will summarize my milestone activity and progress by writing a stand-up. A stand-up is meant to be a succinct update on how things are going. Use the prompts below as a guide on what to write about.  For each Milestone #2-4, you should use all 4 icons.
 
 ⚙️ Overview - What I worked on this past week
 <br>
@@ -38,7 +38,7 @@ For this milestone you will have created a wireframe prototype in Figma.  Post y
 
 ### Milestone 2
 
-What are the 4 pages/ views that you have built and how will they be used on your site?
+List the 4 pages/ views that you have built and how will they be used on your site?  Also, remember that creating a project board, issues, and milestones is 50% of your grade!  If you are having trouble, contact your instructor ASAP, you might need to be part of the ePortoflio group to have better access.
 
 ### Milestone 3
 
