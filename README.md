@@ -127,6 +127,7 @@ Please discuss the following:
 🔮 Next Steps - Write your next steps here.
 
 <br>
+
 #### Changes
 - Discuss any changes or updates that you have made to your site since Milestone #3.
 
