@@ -54,7 +54,7 @@ Post your link here, so you have easy access to it.
 
 <br>
 
-List the 4 pages/ views that you have built and how will they be used on your site?  
+Please discuss the following:  
 #### Page #1   
 - Name  
 - Purpose   
@@ -128,6 +128,7 @@ Please discuss the following:
 
 <br>
 
+Please discuss the following:  
 #### Changes
 - Discuss any changes or updates that you have made to your site since Milestone #3.
 
