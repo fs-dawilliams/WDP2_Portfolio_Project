@@ -39,6 +39,10 @@ For each Milestone #2-4, you should use all 4 icons.
 For this milestone you will have created a wireframe prototype in Figma.   
 Post your link here, so you have easy access to it.
 
+
+
+<br>
+
 ### Milestone 2
 
 List the 4 pages/ views that you have built and how will they be used on your site?  
@@ -60,6 +64,11 @@ List the 4 pages/ views that you have built and how will they be used on your si
 
 #### Remember that creating a project board, issues, and milestones is 50% of your grade!     
 If you are having trouble, contact your instructor ASAP, you might need to be part of the ePortoflio group to have better access.
+
+
+
+
+<br>
 
 ### Milestone 3
 
@@ -85,6 +94,10 @@ Please discuss the following:
 - How was it used in your code?    
 - Where in your code is it used?    
 
+
+
+
+<br>
 
 ### Milestone 4
 
