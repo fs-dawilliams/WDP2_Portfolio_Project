@@ -41,33 +41,37 @@ Post your link here, so you have easy access to it.
 
 ### Milestone 2
 
-List the 4 pages/ views that you have built and how will they be used on your site?    
-Also, remember that creating a project board, issues, and milestones is 50% of your grade!   
+List the 4 pages/ views that you have built and how will they be used on your site?  
+# Page #1   
+- Name  
+- Purpose   
+
+# Remember that creating a project board, issues, and milestones is 50% of your grade!     
 If you are having trouble, contact your instructor ASAP, you might need to be part of the ePortoflio group to have better access.
 
 ### Milestone 3
 
 Please discuss the following:
-API    
+# API    
 - Link to the API that is used in your code    
 - Reason you chose the API    
 - Where in your code did you use it?    
 
-1st Library
--Link to the library    
--Link to library tutorial that you made already.    
--Reason you chose this library.    
--Where in your code is it used?    
+# 1st Library
+- Link to the library    
+- Link to library tutorial that you made already.    
+- Reason you chose this library.    
+- Where in your code is it used?    
 
-2nd Library    
--Link to the library    
--Reason you chose this library.    
--Where in your code is it used?    
+# 2nd Library    
+- Link to the library    
+- Reason you chose this library.    
+- Where in your code is it used?    
 
-Persistent Data    
--Discuss if you have used MongoDB or Local Storage.    
--How was it used in your code?    
--Where in your code is it used?    
+# Persistent Data    
+- Discuss if you have used MongoDB or Local Storage.    
+- How was it used in your code?    
+- Where in your code is it used?    
 
 
 ### Milestone 4
