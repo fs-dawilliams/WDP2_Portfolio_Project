@@ -42,7 +42,7 @@ Post your link here, so you have easy access to it.
 ### Milestone 2
 
 List the 4 pages/ views that you have built and how will they be used on your site?  
-# Page #1   
+#### Page #1   
 - Name  
 - Purpose   
 
