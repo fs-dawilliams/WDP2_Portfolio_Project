@@ -38,12 +38,21 @@ For each Milestone #2-4, you should use all 4 icons.
 
 For this milestone you will have created a wireframe prototype in Figma.   
 Post your link here, so you have easy access to it.
-
+- Figma Link
 
 
 <br>
 
 ### Milestone 2
+⚙️ Overview - Write overview here.
+<br>
+🌵 Challenges - Write challenges here.
+<br>
+🏆 Accomplishments - Write Accomplishments here.
+<br>
+🔮 Next Steps - Write your next steps here.
+
+<br>
 
 List the 4 pages/ views that you have built and how will they be used on your site?  
 #### Page #1   
@@ -105,10 +114,10 @@ Please discuss the following:
 - Discuss any changes or updates that you have made to your site since Milestone #3.
 
 #### Styling
--Discuss the process you used to style your page.
+- Discuss the process you used to style your page.
 
 #### Link To Overview Video
--Once it is created, put the link to your overview video of your site here.
+- Once it is created, put the link to your overview video of your site here.
 
 <br>
 <br>
