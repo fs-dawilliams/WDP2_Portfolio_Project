@@ -80,6 +80,15 @@ If you are having trouble, contact your instructor ASAP, you might need to be pa
 <br>
 
 ### Milestone 3
+⚙️ Overview - Write overview here.
+<br>
+🌵 Challenges - Write challenges here.
+<br>
+🏆 Accomplishments - Write Accomplishments here.
+<br>
+🔮 Next Steps - Write your next steps here.
+
+<br>
 
 Please discuss the following:
 #### API    
@@ -109,7 +118,15 @@ Please discuss the following:
 <br>
 
 ### Milestone 4
+⚙️ Overview - Write overview here.
+<br>
+🌵 Challenges - Write challenges here.
+<br>
+🏆 Accomplishments - Write Accomplishments here.
+<br>
+🔮 Next Steps - Write your next steps here.
 
+<br>
 #### Changes
 - Discuss any changes or updates that you have made to your site since Milestone #3.
 
